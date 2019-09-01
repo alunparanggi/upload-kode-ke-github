@@ -1,0 +1,13 @@
+1. buat repository baru
+2. clone or download, dan copy link yang ada di dalamnya
+3. buka folder project kita
+4. Git Bash Here
+5. masukan command :
+- git init
+- git remote add origin link_repository
+- git pull origin master (untuk mengambil kode dari branch master repository)
+- git add (untuk menambahkan kode android yang ada ke github)
+- git commit -m “pesan” (untuk menambahkan pesan commit dan menandai file yang di upload)
+- git push origin master (untuk upload dan meletakkan di branch master)
+6. setelah di push, artinya project kita sudah terupload ke github
+7. sekian
