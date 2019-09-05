@@ -11,3 +11,11 @@
 - git push origin master (untuk upload dan meletakkan di branch master)
 6. setelah di push, artinya project kita sudah terupload ke github
 7. sekian
+==================================================================================================
+
+jika push untuk ke dua atau lebih kalinya gagal 
+
+git reset --mixed origin/master
+git add .
+git commit -m "This is a new commit for what I originally planned to be amended"
+git push origin master
