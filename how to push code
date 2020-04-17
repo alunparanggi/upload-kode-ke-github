@@ -8,7 +8,7 @@
 - git pull origin master (untuk mengambil kode dari branch master repository)
 - git add (untuk menambahkan kode android yang ada ke github)
 - git commit -m “pesan” (untuk menambahkan pesan commit dan menandai file yang di upload)
-- git push origin master (untuk upload dan meletakkan di branch master)
+- git push origin master (untuk upload dan meletakkan di branch master) atau git push origin master -f
 6. setelah di push, artinya project kita sudah terupload ke github
 7. sekian
 ==================================================================================================
